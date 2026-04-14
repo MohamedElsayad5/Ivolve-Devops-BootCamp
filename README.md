@@ -1,20 +1,13 @@
-# Ivolve-Devops-BootCamp
-cloning the github repositry
+# Ivolve DevOps Bootcamp
 
- [text](f:/MobaXterm/MobaXterm.exe)
+## Overview
+This repository contains DevOps labs:
 
-downloading gradle 
+- Build Tools (Gradle, Maven)
+- Docker
+- Kubernetes
+- CI/CD
+- Ansible
 
-[text](f:/MobaXterm/MobaXterm.exe)
-
-running gradle test successfully
-
-[text](f:/MobaXterm/MobaXterm.exe)
-
-building the applications using  gradle
-
-[text](f:/MobaXterm/MobaXterm.exe)
-
-project structure
-
- [text](f:/MobaXterm/MobaXterm.exe)
+## Current Progress
+- Build Tools → In progress
